@@ -1,0 +1,1 @@
+# Example using obfuscation from maven repository
